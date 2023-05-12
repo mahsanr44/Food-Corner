@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55cc622e.css",
+    "main.js": "/static/js/main.854b8f52.js",
+    "static/media/sandwich-fries.jpg": "/static/media/sandwich-fries.0738acc835786ef687b6.jpg",
+    "static/media/pizza.jpg": "/static/media/pizza.be81fbe5928a5909f0f8.jpg",
+    "static/media/paratha.jpg": "/static/media/paratha.b73927b288e59805218d.jpg",
+    "static/media/omelette.jpg": "/static/media/omelette.bc4a70bcbc98ee12bcad.jpg",
+    "static/media/bread.jpg": "/static/media/bread.50b08e5bcd77515af1ea.jpg",
+    "static/media/mix-food.jpg": "/static/media/mix-food.b26d70566532c1bfc590.jpg",
+    "static/media/hotel-dinner.jpg": "/static/media/hotel-dinner.6006208d1f0d468f9eaf.jpg",
+    "static/media/samosa.jpg": "/static/media/samosa.9ee7b638c759a8854bed.jpg",
+    "static/media/vegetable.jpg": "/static/media/vegetable.dec22c50ad8b0e9e1be5.jpg",
+    "static/media/pasta.jpg": "/static/media/pasta.a28bc078e6659b6bd7ef.jpg",
+    "static/media/roast.jpg": "/static/media/roast.10d72ce39f5d370b0e13.jpg",
+    "index.html": "/index.html",
+    "main.55cc622e.css.map": "/static/css/main.55cc622e.css.map",
+    "main.854b8f52.js.map": "/static/js/main.854b8f52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55cc622e.css",
+    "static/js/main.854b8f52.js"
+  ]
+}
