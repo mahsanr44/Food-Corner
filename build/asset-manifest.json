@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.55cc622e.css",
-    "main.js": "/static/js/main.854b8f52.js",
+    "main.css": "/static/css/main.74cb4f79.css",
+    "main.js": "/static/js/main.23b0ff25.js",
     "static/media/sandwich-fries.jpg": "/static/media/sandwich-fries.0738acc835786ef687b6.jpg",
     "static/media/pizza.jpg": "/static/media/pizza.be81fbe5928a5909f0f8.jpg",
     "static/media/paratha.jpg": "/static/media/paratha.b73927b288e59805218d.jpg",
@@ -14,11 +14,11 @@
     "static/media/pasta.jpg": "/static/media/pasta.a28bc078e6659b6bd7ef.jpg",
     "static/media/roast.jpg": "/static/media/roast.10d72ce39f5d370b0e13.jpg",
     "index.html": "/index.html",
-    "main.55cc622e.css.map": "/static/css/main.55cc622e.css.map",
-    "main.854b8f52.js.map": "/static/js/main.854b8f52.js.map"
+    "main.74cb4f79.css.map": "/static/css/main.74cb4f79.css.map",
+    "main.23b0ff25.js.map": "/static/js/main.23b0ff25.js.map"
   },
   "entrypoints": [
-    "static/css/main.55cc622e.css",
-    "static/js/main.854b8f52.js"
+    "static/css/main.74cb4f79.css",
+    "static/js/main.23b0ff25.js"
   ]
 }

@@ -3,8 +3,8 @@ import React from "react";
 const Navbar = ({ myProps }) => {
   const { myFilterMenu, myuniqueMenu } = myProps;
   return (
-    <nav className="pt-4 lg:px-64 md:px-12">
-      <div className="flex justify-center bg-white p-2 rounded-full gap-x-2 md:gap-x-6 lg:gap-x-12">
+    <nav className="pt-4 lg:px-64 md:px-12 px-2">
+      <div className="flex justify-center bg-white  p-1 md:p-2 rounded-full gap-x-2 md:gap-x-6 lg:gap-x-12">
         {myuniqueMenu.map((item) => (
           <>
             <button
