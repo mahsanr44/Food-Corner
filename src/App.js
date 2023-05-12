@@ -1,14 +1,11 @@
 import React from 'react'
-
-const App = () => {
+import Restaurant from './Components/Restaurant';
+function App() {
   return (
     <>
-<h1>
-  Hello World
-  </h1>   
-   </>
-  )
+    <Restaurant/>
+    </>
+  );
 }
-
 export default App
 
